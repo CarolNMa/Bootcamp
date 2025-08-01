@@ -1,0 +1,25 @@
+.fondo{
+
+    background-image: url('../img/fondo1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.letra{
+
+    font-family: 'Metal Mania';
+    font-size: ;
+    color: #ffff;
+}
+
+.bt-Empezar{
+    background-image: url('../img/boton.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    border: none;
+    cursor: pointer;
+}
+
